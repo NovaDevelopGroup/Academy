@@ -60,7 +60,7 @@ CHANGELOG.md
 /core/test/functional/*.png
 /core/test/coverage
 
-/config.js
+#/config.js
 
 # Built asset files
 /core/built
