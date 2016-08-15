@@ -20,6 +20,7 @@
   "scripts": {
     "preinstall": "node core/server/utils/npm/preinstall.js",
     "start": "node index",
+    "prod": "NODE_ENV=production pm2 start index.js --name Blog",
     "test": "grunt validate --verbose"
   },
   "engines": {
