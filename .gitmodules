@@ -1,9 +1,6 @@
 [submodule "content/themes/casper"]
 	path = content/themes/casper
-	url = https://github.com/TryGhost/Casper.git
-[submodule "content/themes/ghost-theme"]
-	path = content/themes/ghost-theme
-	url = https://github.com/Vanthink-UED/ghost-theme.git
+	url = https://github.com/NovaDevelopGroup/Casper.git
 [submodule "core/client"]
 	path = core/client
 	url = https://github.com/TryGhost/Ghost-Admin.git
